@@ -14,6 +14,6 @@ Add a local.settings.json file in the project root with the following configurat
 
 ## References
 - [Microsoft Documentation for Bing Search Services](https://docs.microsoft.com/en-us/azure/cognitive-services/bing-web-search/ )
-- [API Priing](https://www.microsoft.com/en-us/bing/apis/pricing)
+- [API Pricing](https://www.microsoft.com/en-us/bing/apis/pricing)
 - [C# Quickstart](https://docs.microsoft.com/en-us/azure/cognitive-services/bing-spell-check/quickstarts/csharp)
 - [Great video via PluralSight - must be a member to watch.](https://app.pluralsight.com/library/courses/microsoft-azure-cognitive-services-bing-spell-check-api/table-of-contents)
